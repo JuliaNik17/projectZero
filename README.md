@@ -3,7 +3,7 @@
 
 Данный проект сверстан согласно предоставленному брифу. Использованы теги 
 
-//<header></header>, <footer></footer>, <section></section>, <iframe></iframe>//
+/*<header></header>, <footer></footer>, <section></section>, <iframe></iframe>*/
 
 Используются списки для разметки, а также ссылки. 
 
